@@ -13,4 +13,4 @@ spring:
     host: 192.168.136.128
     port: 5672
 env:
-  dev21
+  dev22
