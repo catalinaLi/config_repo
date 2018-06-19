@@ -12,5 +12,10 @@ spring:
     password: guest
     host: 192.168.136.128
     port: 5672
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh    
 env:
   dev22
