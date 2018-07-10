@@ -21,6 +21,6 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 env:
-  dev4
+  dev
 server:
   port: 8765 #客户端端口
